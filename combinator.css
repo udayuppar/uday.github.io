@@ -1,0 +1,20 @@
+
+div p {
+    color:yellow;
+    font-size: 50px;
+}
+div > P{
+    color:red;
+    font-size: 50px;
+}
+   
+/*Adjacent sibling sector*/
+div + p{
+    color: pink;
+    font-size: 40px;
+}
+/*General sibilng sector*/
+div ~ p{
+    color: blueviolet;
+
+}

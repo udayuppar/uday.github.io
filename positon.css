@@ -1,0 +1,30 @@
+.static{
+    position: static;
+    bottom: 0;
+}
+.fixed{
+    position: fixed;
+    top: 0;
+}
+.relative{
+    position: relative;
+    left: 100px;
+    top:0;
+}
+.absolute{
+    position:absolute;
+    top: 0;
+    right: 100px;
+}
+.absoluteVirat{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+}
+.imageparent{
+    position: relative;
+}
+
+
+
+
